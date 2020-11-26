@@ -1,0 +1,83 @@
+startLabel Enter ZIO Paper Code ('h' - Help OR 's' - Settings) : 
+menuPrompt0 +---------------------------------------+
+menuPrompt1   (1) > DOWNLOAD or OPEN Question Paper
+menuPrompt2   (2) > DOWNLOAD or OPEN Solution Key
+menuPrompt3   (3) > GET Cutoff
+menuPrompt4   (4) > GET Question
+menuPrompt5   (5) > VERIFY or GET Answer
+menuPrompt6   (6) > GET Editorial
+menuPrompt7   (7) > GET Computer Program
+menuPrompt8   (8) > Discuss
+menuPrompt9   (9) > LEARN about Prequisites
+menuPrompt10  (10) > SIMULATE Mock Test
+menuPrompt11  (11) > GET Reference Books
+menuPrompt12  (12) > Quit
+menuPrompt13 +---------------------------------------+
+headLabel (I) Enter Your Response [1,12] :  
+dwnFileTrue1  *  Intended File is Successfully
+dwnFileTrue2  *  Prompted on to Your Default Browser for Download.
+stdPrompt (Q) In which class do you Study ?
+stdInputLabel (I) Enter Your Response {9,10,11,12} : 
+cfAnsLabel1  *  Cutoff For the Year  
+cfAnsLabel2  *  For the Class ("
+cfAnsLabel3 ") is : 
+cfAnsLabel4  *  i.e. 
+cfAnsLabel5  % Of the PAPER. 
+confirmQPrompt (Q) Confirm Question No. Belonging to ZIO PAPER CODE : ZIO-
+confirmQLabel (I) Enter Your Response {1,2,3,4,5,6} : 
+confirmTcPrompt (Q) Confirm Test Case Id. Belonging to Question : Q
+confirmTcLabel (I) Enter Your Response {1,2,3} : 
+confirmAPrompt1 (Q) Are You Sure? You want to Know the Answer to the Problem Code ZIO-
+confirmAPrompt2  *  Either Verify Your Estimations Here.
+confirmALabel (I) Enter Your Response [Type "VERIFY" OR Type "ANSWER"] : 
+guessPrompt (Q) What is Your Calculated Estimate for the Above Problem?
+guessLabel (I) Enter Your Response [Integer] : 
+prevGuessLabel  *  Previous Wrong Estimation => 
+corAnsLabel (D) Correct Estimation! :)
+wrongAnsLabel (D) Wrong Estimation! :(
+wrongAnsContinuePrompt (Q) Do You want To Make an Another Estimate ?
+wrongAnsContinueLabel (I) Enter Your Response [Type "YES" | Type "NO"] : 
+neuAnsQPrompt (Q) Have You Got All Yours Stars Covered ?
+neuAnsQLabel (I) Enter Your Response [Type "YES" | Type "NO"] :
+loadFileTrue1  *  Intended File is Successfully
+loadFileTrue2  *  Loaded on to Your Default Browser for Viewing.
+tailmenuPrompt0 ---------------------------------------
+tailmenuPrompt1    (1) > Return To The Main Menu
+tailmenuPrompt2    (2) > Return To The Sub-Menu
+tailmenuPrompt3    (3) > About The Developer
+tailmenuPrompt4    (4) > Suppot The Developer
+tailmenuPrompt5    (5) > What's Coming Next ?
+tailmenuPrompt6    (6) > End Session
+tailmenuPrompt7 ---------------------------------------
+tailLabel (I) Enter Your Response [1,6] : 
+devLabel1 * @Developer : YASHASWEE KESHARWANI *
+devLabel2 * @Date      : 25-November-2020     *
+devLabel3 * @Country   : Bharat               *
+devLabel4 * @Lab       : Therefore Labs       *
+devLabel5 * @LinkedIn  : https://www.linkedin.com/in/yashasweek9/   *
+devLabel6 * @Quora     : https://www.quora.com/q/bcwcptsnerssggst   *
+devLabel7 * @Github    : https://github.com/yashasweeK9/ProbSol     *
+rbookmenu0  (D) List of Books Currently Available on our Servers
+rbookmenu1 Abcdefghij
+rbookmenu2 klmnopqrst
+rbookmenu3 uvwxyz
+rbooklabel  (I) Enter Your Response [1,3] :  
+rbooksuccess (D) Success! :)
+help50 (E) Intended Page Does NOT Exists for such Input Combination.
+help51  *  Re-Run the Program from the Main Menu
+help52  *  Reach out the Developer @dev.probsol@gmail.com
+help10 (E) Paper Code or Command is Invalid or Does NOT Exists!
+help11  *  The Following is Accepted as a Valid Paper Code : "ZIO-XXXX" OR "XXXX".
+help12  *  Where XXXX is the Year in which the Olympiad was held.
+help13  *  The Following is Accepted as a Valid Command : "s" OR "settings" OR "set" for Settings & "h" OR "help" for Help.  
+help14  *  This Version of ProbSol packs Features & Utilities for ZIO-Paper 2002 To ZIO-Paper 2020.
+help15  *  Please adhere to the limitations of the Version.
+help16  *  Re-Run the Program from the Main Menu and Follow the Instructions mentioned above.
+help70 (E) The Feature is still in Development Mode
+help71  *  You may write your demand about the Feature @dev.probsol@gmail.com.
+help72  *  As soon as the Update is available, you'll be notified about the same.
+help73  *  You may also, support the developer by buying him a coffee.
+help90 (E) Intended Resource Either Does NOT Exists or Has Been Taken down.
+help91  *  Link Broken OR Resource Busy OR Invalid File.
+help92  *  You may write us at @dev.probsol@gmail.com
+help93  *  Download the Latest Copy of the Application. 
